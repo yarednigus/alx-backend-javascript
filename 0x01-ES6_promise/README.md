@@ -1,1 +1,1 @@
-#0x01-ES6_promise
+#Js promises, Error handling, then() chaining ...alot more!!
